@@ -18,7 +18,7 @@ Install Requests with pip ```pip install requests```
 
 Step 4. 
 
-Run it ```python3 /path/to/script```
+Run it ```python3.9 /path/to/script```
 
 # OPTIONAL
 
@@ -26,4 +26,4 @@ Set it up as an alias so you can curse your friends on the fly in the terminal
 
 Step 5.
 
-```alias curse="python3 /path/to/script"```
+```alias curse="python3.9 /path/to/script"```
